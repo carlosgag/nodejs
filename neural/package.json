@@ -1,0 +1,14 @@
+{
+  "name": "neural-prototype",
+  "version": "0.0.0",
+  "description": "Neural prototype.",
+  "main": "app.js",
+  "repository": "",
+  "author": "Neural",
+  "dependencies": {
+    "async": "~0.2.8",
+    "express": "~3.2.4",
+    "socket.io": "~0.9.14",
+    "watson-developer-cloud": "^2.2.0"
+  }
+}
